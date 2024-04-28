@@ -1,5 +1,1 @@
-I’m currently pursuing B.Tech in Computer Science Engineering from Drs.Kiran and Pallavi Patel Global University (KPGU) ,Vadodara
-
-Building Connections and Exploring world of Coding
-
-to contack me:- akashvsorte@gmail.com
+Some of the C and C++ codes i have Practiced on during my B.Tech CSE 1st year programme @ Bits Edu Campus Varnama 
